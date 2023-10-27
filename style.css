@@ -10,6 +10,11 @@ p{
 body {
     background-color: cream ;
 }
+
+#objetivo {
+font-size:20px
+}
+
 em strong {
     color: turquoise;
 }
