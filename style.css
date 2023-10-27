@@ -10,3 +10,6 @@ p{
 body {
     background-color: grey;
 }
+strong {
+    color: red;
+}
